@@ -19,6 +19,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was creating a simple one-person pong game using processing.I first created the image of the ball, then programmed it to be able to move and react with the wall. I then created a "wall" to function as the other player in the game. I then created the image of the paddle and programmed it's movement. Finally, I made the ball speed up with every play, so that the game would continuously become more challenging.
+My first milestone was creating a simple one-person pong game using processing. I first created the image of the ball, then programmed it to be able to move and react with the wall. I then created a "wall" to function as the other player in the game. I then created the image of the paddle and programmed it's movement. Finally, I made the ball speed up with every play, so that the game would continuously become more challenging.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72040431/127664057-73c431f3-182b-40be-9184-5326cbcbbd03.gif)
