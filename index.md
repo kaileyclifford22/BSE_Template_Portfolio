@@ -1,5 +1,5 @@
 <B>Arduino Pong </B> <BR>
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This is a pong game created in processing. It is connected to Arduino, and the paddles are then controlled by potentiometers.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
