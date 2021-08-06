@@ -21,5 +21,5 @@ My second miletsone was creating the exterior controls for my pong game. I began
 
 My first milestone was creating a simple one-person pong game using processing. I first created the image of the ball, then programmed it to be able to move and react with the wall. I then created a "wall" to function as the other player in the game. I then created the image of the paddle and programmed it's movement. Finally, I made the ball speed up with every play, so that the game would continuously become more challenging.
 
-  [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628259141/video_to_markdown/images/youtube--H7noV8Ftf2o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=H7noV8Ftf2o "First Milestone")
+  [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628259141/video_to_markdown/images/youtube--H7noV8Ftf2o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=H7noV8Ftf2o "First Milestone"){:target="_blank" rel="noopener"}
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72040431/127664057-73c431f3-182b-40be-9184-5326cbcbbd03.gif)
