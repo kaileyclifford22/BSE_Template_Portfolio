@@ -13,11 +13,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second miletsone was creating the exterior controls for my pong game. I began by adding Arduino controls that were connected to Processing. I then began working on the hardware portion of this project. I wired my arduino board to two potentiometers using a breadboard and jumper wires. I struggled with learning to use Arduino  software during this portion, as well as learning how to use the potentiometers and wiring.
+My second milestone was creating the exterior controls for my pong game. I began by adding Arduino controls that were connected to Processing. I then began working on the hardware portion of this project. I wired my arduino board to two potentiometers using a breadboard and jumper wires. I struggled with learning to use Arduino  software during this portion, as well as learning how to use the potentiometers and wiring.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628259141/video_to_markdown/images/youtube--H7noV8Ftf2o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=H7noV8Ftf2o "First Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628688118/video_to_markdown/images/youtube--ZSB1iUczcbM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ZSB1iUczcbM "Second Milestone"){:target="_blank" rel="noopener"}![codescreenshot](https://user-images.githubusercontent.com/72040431/129039755-9ef984a0-4461-4930-a64b-3ccb0b11235b.png)
+
 # First Milestone
-  
 
 My first milestone was creating a simple one-person pong game using processing. I first created the image of the ball, then programmed it to be able to move and react with the wall. I then created a "wall" to function as the other player in the game. I then created the image of the paddle and programmed it's movement. Finally, I made the ball speed up with every play, so that the game would continuously become more challenging.
 
