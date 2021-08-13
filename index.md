@@ -3,14 +3,15 @@ This is a pong game created in processing. It is connected to Arduino, and the p
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kailey Clifford | Staten Island Technical High School | Electrical Engineering | Incoming Senior
+| Kailey Clifford | Staten Island Technical High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://.jpg)
+![Headstone Image]![0](https://user-images.githubusercontent.com/72040431/129371350-2bafd911-96e5-4fde-8cb0-a7cc15968d54.jpg)
+
   
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+# Reflection
+This project was a learning experience for me. This was my first time ever working with Processing, Arduino, and circuitry and I believe I got a great introduction to all of these things.I also learned alot about what I enjoy in the field of engineering and what I want to pursue. I really enjoyed learning how to use and working with Processing,and I believe that the creativity allowed by the artistic nature of this coding language was crucial to this. I did struggle a lot with working with Arduino IDE, as it  was incredibly difficult for me to debug and understand. I did plan on creating a selection screen for my game, but unfortunately ran out of time and could not. I loved working on this project and hope to continue working with these elements.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628864463/video_to_markdown/images/youtube--YYSNxKir-qY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YYSNxKir-qY ""){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was creating the exterior controls for my pong game. I began by adding Arduino controls that were connected to Processing. I then began working on the hardware portion of this project. I wired my arduino board to two potentiometers using a breadboard and jumper wires. I struggled with learning to use Arduino  software during this portion, as well as learning how to use the potentiometers and wiring.
