@@ -5,7 +5,7 @@ This is a pong game created in processing. It is connected to Arduino, and the p
 |:--:|:--:|:--:|:--:|
 | Kailey Clifford | Staten Island Technical High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image]![0](https://user-images.githubusercontent.com/72040431/129371350-2bafd911-96e5-4fde-8cb0-a7cc15968d54.jpg)
+[![Headstone Image](https://user-images.githubusercontent.com/72040431/129371350-2bafd911-96e5-4fde-8cb0-a7cc15968d54.jpg)
 
   
 # Reflection
